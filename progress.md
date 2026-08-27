@@ -1,16 +1,16 @@
 # Loop Engineering Projects Progress
 
-*Last updated: 2026-08-26*
+*Last updated: 2026-08-27*
 
 ## Completed ✅
 - Project 1: In-Session Loop Monitoring — 2026-08-26 — Built a monitor loop that checks every minute for a long-running task completion, notifies once when done, and exits cleanly
 - Project 2: Conditional Loop: Make Tests Pass Then Stop — 2026-08-26 — Built a conditional loop that fixes failing tests one by one until all pass (stopped on try 4 of 6), using the test runner as the decision maker
+- Project 3: The Morning Brief with Memory — 2026-08-27 — Built a scheduled loop that reads progress.md, gathers repo data, writes summary, and updates progress.md. Second run built on first (found previous entries as TODO), proving the spine/memory works.
 
 ## In Progress 🔄
 *None currently*
 
 ## Not Started ⏳
-- Project 3: The Morning Brief with Memory (Concepts 6, 12)
 - Project 4: Fix Loop with Real Checker (Concepts 8, 9, 11)
 - Project 5: Codify the Body (Dynamic workflows, Concepts 8, 11)
 - Project 6: The Doorbell Loop (Concepts 7, 10)
@@ -27,3 +27,4 @@
 - Project 6 requires Part 3 (event-driven, connectors)
 - Project 8 & 12 are capstones requiring full course completion
 - Projects 9-11 are appendix drills needing Routines access
+- Project 3 verified: second run found first run's entries as TODO items, confirming memory works
